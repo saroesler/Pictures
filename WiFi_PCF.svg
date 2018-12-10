@@ -177,15 +177,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="297.17587"
+     inkscape:cx="0.1910208"
      inkscape:cy="128.46825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      inkscape:window-x="65"
-     inkscape:window-y="1104"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="10"
      fit-margin-left="10"
@@ -199,7 +199,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -375,6 +375,6 @@
          sodipodi:role="line"
          id="tspan6308"
          x="107.88837"
-         y="583.71234">CFP repetion interval</tspan></text>
+         y="583.71234">CFP repetition interval</tspan></text>
   </g>
 </svg>
