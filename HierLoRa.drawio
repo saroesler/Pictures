@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T07:45:10.929Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" etag="9_lKjNAhqA0eYivUeDb3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T09:03:38.332Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="hCL8qLddHqCVsxUWV9yN" version="21.6.8" type="github">
   <diagram name="Seite-1" id="lB1JLsr8gfcY0DWC790i">
-    <mxGraphModel>
+    <mxGraphModel dx="509" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="480" pageHeight="250" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8NNbb8crAF08lImAskEI-5" value="" style="shape=or;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="491" width="460" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-4" value="" style="shape=or;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="491" y="10" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;endWidth=44.13793103448276;endSize=9.216744186046512;width=29.488372093023255;entryX=0.7;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.143;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;labelBackgroundColor=default;fontColor=default;" edge="1" parent="1" source="8NNbb8crAF08lImAskEI-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="551" y="101" as="sourcePoint" />
+            <mxPoint x="872" y="100.85999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="801" y="100.15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-2" value="Gateway 1" style="image;html=1;image=img/lib/clip_art/networking/Bridge_128x128.png;imageBackground=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="651" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-3" value="Gateway 2" style="image;html=1;image=img/lib/clip_art/networking/Bridge_128x128.png;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="811" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-1" value="&lt;div&gt;HierLoRa&lt;/div&gt;&lt;div&gt;Node&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="30" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=44.13793103448276;endSize=9.216744186046512;width=29.488372093023255;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541" y="100" as="sourcePoint" />
+            <mxPoint x="711" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="631" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="544" y="88" width="127" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-7" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="565.38" y="68.13" width="22.5" height="66.25" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-8" value="SF 7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8NNbb8crAF08lImAskEI-9" value="SF 10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="611" y="88" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
